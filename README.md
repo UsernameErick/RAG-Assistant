@@ -17,6 +17,11 @@ Featuring an interactive web interface powered by **Streamlit**, conversational 
 
 ---
 
+## Screenshot
+![Streamlit interface](screenshots/screenshot_query3.png)
+
+---
+
 ## Tech Stack
 
 * **Language:** Python 3.12+
